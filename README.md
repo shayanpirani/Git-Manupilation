@@ -1,2 +1,2 @@
 # Git-Manupilation
-Learning Git
+Learning Git, modifying them.
